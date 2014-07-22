@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">pindahLayout</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="coba_pindah_layout_fix">Coba Pindah Layout!</string>
+    <string name="pindah_layout_fix">Pindah Layout!</string>
+    <string name="ini_layout_kedua_fix">Ini layout kedua!</string>
+    <string name="kembali_fix">Kembali!</string>
+
+</resources>
